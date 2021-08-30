@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @srahw756
 - 👀 I’m interested in ui/ux design
-- 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on websites! apps! anything design related!
 - 📫 How to reach me --> sarah.wang@wustl.edu
 
